@@ -1,0 +1,29 @@
+{
+  "name": "expresspractice",
+  "version": "1.0.0",
+  "description": "Backend practice with NodeJS and Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franco-Odone/backend-practice-NodeJS.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "javascript",
+    "express"
+  ],
+  "author": "Franco Odone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franco-Odone/backend-practice-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Franco-Odone/backend-practice-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
